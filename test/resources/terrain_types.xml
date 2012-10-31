@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terrains>
+	<terrain>
+		<name>Water</name>
+		<colour>
+			<r>0</r>	
+			<g>0</g>
+			<b>255</b>
+		</colour>
+	</terrain>
+
+	<terrain>
+		<name>Land</name>
+		<colour>
+			<r>140</r>	
+			<g>90</g>
+			<b>0</b>
+		</colour>
+	</terrain>
+
+	<terrain>
+		<name>Road</name>
+		<colour>
+			<r>127</r>	
+			<g>127</g>
+			<b>127</b>
+		</colour>
+	</terrain>
+
+</terrains>

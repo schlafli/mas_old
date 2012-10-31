@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world-entities>
+	<spo>
+		<object>
+			<type>Car</type>
+			<speed>
+				<land>0.7</land>
+				<road>1.0</road>
+			</speed>
+		</object>
+	</spo>
+</world-entities>

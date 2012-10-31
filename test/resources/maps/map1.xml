@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<resources>
+		<terrains>
+			<terrain>
+				<name>Water</name>
+			</terrain>
+			<terrain>
+				<name>Land</name>
+			</terrain>
+			<terrain>
+				<name>Road</name>
+			</terrain>
+		</terrains>	
+	</resources>
+
+	<size>
+		<x>10</x>
+		<y>10</y>
+	</size>
+
+</map>

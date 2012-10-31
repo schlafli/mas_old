@@ -1,0 +1,52 @@
+Run 1 of 100
+mas2j: /home/schlafli/workspaces/masworkspace/test/test.mas2j parsed successfully!
+
+Executing /usr/lib/jvm/java-6-openjdk/bin/java -classpath /home/schlafli/programs/Jason-1.3.4/lib/ant-launcher.jar org.apache.tools.ant.launch.Launcher -e -f bin/build.xml run
+Buildfile: /home/schlafli/workspaces/masworkspace/test/bin/build.xml
+
+init:
+
+user-init:
+
+compile:
+
+run:
+Running project test
+
+user-end:
+
+BUILD SUCCESSFUL
+Total time: 4 minutes 14 seconds
+Run 2 of 100
+mas2j: /home/schlafli/workspaces/masworkspace/test/test.mas2j parsed successfully!
+
+Executing /usr/lib/jvm/java-6-openjdk/bin/java -classpath /home/schlafli/programs/Jason-1.3.4/lib/ant-launcher.jar org.apache.tools.ant.launch.Launcher -e -f bin/build.xml run
+Buildfile: /home/schlafli/workspaces/masworkspace/test/bin/build.xml
+
+init:
+
+user-init:
+
+compile:
+
+run:
+Running project test
+
+user-end:
+
+BUILD SUCCESSFUL
+Total time: 11 seconds
+Run 3 of 100
+mas2j: /home/schlafli/workspaces/masworkspace/test/test.mas2j parsed successfully!
+
+Executing /usr/lib/jvm/java-6-openjdk/bin/java -classpath /home/schlafli/programs/Jason-1.3.4/lib/ant-launcher.jar org.apache.tools.ant.launch.Launcher -e -f bin/build.xml run
+Buildfile: /home/schlafli/workspaces/masworkspace/test/bin/build.xml
+
+init:
+
+user-init:
+
+compile:
+
+run:
+Running project test
